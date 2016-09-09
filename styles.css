@@ -15,11 +15,11 @@ ul {
 }
 
 li {
+    color: #ffc04c;
     float: left;
 }
 
 li a {
-    color: #ffc04c;
     display: block;
     color: #666;
     text-align: center;
