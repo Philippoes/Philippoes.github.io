@@ -47,9 +47,18 @@ p {
     font-family: Helvetica
 }
 
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin: 0 0 100px; /* bottom = footer height */
+}
 footer {
-  background: #ffc04c;
-  color: white;
-  line-height: 50px;
-  padding: 0 20px;
+  background-color: #494848;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
 }
