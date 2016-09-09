@@ -46,3 +46,8 @@ p {
     color: black;
     font-family: Helvetica
 }
+
+.footer,
+.push {
+  height: 50px;
+}
