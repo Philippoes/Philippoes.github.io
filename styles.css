@@ -34,7 +34,7 @@ li a:hover:not(.active) {
 
 li a.active {
     color: white;
-    background-color: #ffc04c;
+    background-color: #ffc04c
 ;
 }
 
@@ -45,20 +45,4 @@ h1 {
 p {
     color: black;
     font-family: Helvetica
-}
-
-html {
-    position: relative;
-    min-height: 100%;
-}
-body {
-    margin: 0 0 0px; /* bottom = footer height */
-}
-footer {
-  background-color: #494848;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 100px;
-    width: 100%;
 }
