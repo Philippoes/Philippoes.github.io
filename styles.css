@@ -3,7 +3,9 @@ body {
 }
 h1 {
     color: orange;
+    font-family: Helvetica
 }
 p {
     color: black;
+    font-family: Helvetica
 }
