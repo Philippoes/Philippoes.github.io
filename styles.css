@@ -5,6 +5,7 @@ body {
 }
 
 ul {
+    font-family: Helvetica
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -31,11 +32,12 @@ li a:hover:not(.active) {
 
 li a.active {
     color: white;
-    background-color: #4CAF50;
+    background-color: #ffc04c
+;
 }
 
 h1 {
-    color: orange;
+    color: #ffc04c;
     font-family: Helvetica
 }
 p {
