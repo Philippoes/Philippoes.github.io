@@ -5,6 +5,7 @@ body {
 }
 
 ul {
+    color: #ffc04c;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -14,7 +15,6 @@ ul {
 }
 
 li {
-    color: #ffc04c;
     float: left;
 }
 
