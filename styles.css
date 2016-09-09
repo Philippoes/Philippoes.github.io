@@ -34,7 +34,7 @@ li a:hover:not(.active) {
 
 li a.active {
     color: white;
-    background-color: #ffc04c
+    background-color: #ffc04c;
 ;
 }
 
@@ -47,7 +47,9 @@ p {
     font-family: Helvetica
 }
 
-.footer,
-.push {
-  height: 50px;
+footer {
+  background: #ffc04c;
+  color: white;
+  line-height: 50px;
+  padding: 0 20px;
 }
