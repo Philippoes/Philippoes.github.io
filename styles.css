@@ -1,6 +1,12 @@
 body {
     background-color: #eaeff4;
     font-family: Helvetica
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 h1 {
     color: orange;
