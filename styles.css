@@ -46,13 +46,12 @@ p {
     color: black;
     font-family: Helvetica
 }
-body {
-    margin: 0 0 20px;
-  }
-  .footer {
-    position: absolute;
-    bottom: 0;
-    height: 20px;
-    background: #f0f0f0;
-    width: 100%;
-  }
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
